@@ -31,7 +31,7 @@ Execute o comando `$ gem install bundler`
 
 Ao finalizar a execução, execute `$ bundler install`
 
-Fo finalizar novamente, execute `cucumber --init`
+Ao finalizar novamente, execute `cucumber --init`
 
 Com tudo instalado corretamente, execute o comando `$ cucumber` e o script será executado:
 

@@ -27,6 +27,12 @@ Selecione o arquivo `1-test.cy.js` e o script será executado.
 
 Vá para o diretório "backend" utilizando `$ cd backend`
 
-Execute o comando `$ cucumber` e o script será executado:
+Execute o comando `$ gem install bundler`
+
+Ao finalizar a execução, execute `$ bundler install`
+
+Fo finalizar novamente, execute `cucumber --init`
+
+Com tudo instalado corretamente, execute o comando `$ cucumber` e o script será executado:
 
 <img width="1065" alt="image" src="https://user-images.githubusercontent.com/96924797/231903436-52887882-3202-4097-bd65-38feae4fd97e.png">
